@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="processing-opengl">
+    <CLASSES>
+      <root url="jar://C:/Program Files (x86)/processing-1.2.1/libraries/opengl/library/gluegen-rt.jar!/" />
+      <root url="jar://C:/Program Files (x86)/processing-1.2.1/libraries/opengl/library/jogl.jar!/" />
+      <root url="jar://C:/Program Files (x86)/processing-1.2.1/libraries/opengl/library/opengl.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

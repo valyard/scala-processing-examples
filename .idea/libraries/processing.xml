@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="processing">
+    <CLASSES>
+      <root url="jar://C:/Program Files (x86)/processing-1.2.1/lib/core.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
