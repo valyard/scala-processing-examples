@@ -17,3 +17,6 @@ http://memo.tv/msafluid_for_processing
 * plasma
 Scala port of Jorg Reuter's SinusPlasma sketch
 http://stachelig.de/
+
+*NEW* Fluid Pong at https://github.com/InteractiveLab/fluid.pong
+Made using Processing, Scala, MSA Fluid and box2d.
